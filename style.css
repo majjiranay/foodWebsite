@@ -1,0 +1,11 @@
+li, p, h1, h2 {
+    font-family: Comic Sans MS;
+}
+
+ul, ol {
+    list-style-position: inside;
+    text-align: center;
+}
+body {
+    background-color: lightblue;
+}
